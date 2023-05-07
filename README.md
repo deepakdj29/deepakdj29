@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @deepakdj29
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning c++,html,css
+- 👀 I'm a passionate programmer and problem solver.
+- 🌱 I’m currently learning several languages and framework.
 - 💞️ I’m looking to collaborate on part time work
-- 📫 How to reach me mail-dannybhatt1234@gmail.com
+- 📫 Reach me at mail-dannybhatt1234@gmail.com
 
 <!---
 deepakdj29/deepakdj29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
